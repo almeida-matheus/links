@@ -28,9 +28,9 @@ async function WriteTextContent(resources) {
 
 document.addEventListener("DOMContentLoaded", async () => {
     try {
-        response = await WriteTextContent(resources)
+        await WriteTextContent(resources)
     }
     catch (e) {
-        console.log('Ocorreu um erro',e)
+        console.log('Ocorreu um erro\n',e)
     }
 })
