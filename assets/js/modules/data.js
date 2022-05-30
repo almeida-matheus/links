@@ -55,21 +55,21 @@ const resources = [
         Visibility: "Visible"
     },
     {
-        ServiceName: "Instagram",
-        PersonalURL: "https://www.instagram.com/almeidamatheus.me/",
-        PrimaryColor: "#E1306C",
-        IconFontawesome: "fa-brands fa-instagram",
-        TypeService: "Social",
-        Nickname: "almeidamatheus.me",
-        Visibility: "Visible"
-    },
-    {
         ServiceName: "GitHub",
         PersonalURL: "https://github.com/almeida-matheus",
         PrimaryColor: "#333333",
         IconFontawesome: "fa-brands fa-github",
         TypeService: "Social",
         Nickname: "almeida-matheus",
+        Visibility: "Visible"
+    },
+    {
+        ServiceName: "Instagram",
+        PersonalURL: "https://www.instagram.com/almeidamatheus.me/",
+        PrimaryColor: "#E1306C",
+        IconFontawesome: "fa-brands fa-instagram",
+        TypeService: "Social",
+        Nickname: "almeidamatheus.me",
         Visibility: "Visible"
     },
     {
@@ -118,21 +118,21 @@ const resources = [
         Visibility: "Visible"
     },
     {
-        ServiceName: "Telegram",
-        PersonalURL: "https://t.me/almeidamatheus",
-        PrimaryColor: "#0088cc",
-        IconFontawesome: "fa-brands fa-telegram-plane",
-        TypeService: "Social",
-        Nickname: "almeidamatheus",
-        Visibility: "Visible"
-    },
-    {
         ServiceName: "Pinterest",
         PersonalURL: "https://br.pinterest.com/almeidamatheus_/",
         PrimaryColor: "#E60023",
         IconFontawesome: "fa-brands fa-pinterest",
         TypeService: "Social",
         NickName: "",
+        Visibility: "Visible"
+    },
+    {
+        ServiceName: "Telegram",
+        PersonalURL: "https://t.me/almeidamatheus",
+        PrimaryColor: "#0088cc",
+        IconFontawesome: "fa-brands fa-telegram-plane",
+        TypeService: "Social",
+        Nickname: "almeidamatheus",
         Visibility: "Visible"
     },
     {
