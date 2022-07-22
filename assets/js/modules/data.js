@@ -124,7 +124,7 @@ const resources = [
         IconFontawesome: "fa-brands fa-pinterest",
         TypeService: "Social",
         NickName: "",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Telegram",
@@ -196,6 +196,15 @@ const resources = [
         IconFontawesome: "fa-solid fa-gamepad",
         TypeService: "Social",
         NickName: "shiryunk#1234",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Xbox",
+        PersonalURL: "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&activetab=main:mainTab2",
+        PrimaryColor: "#107C10",
+        IconFontawesome: "fa-solid fa-gamepad",
+        TypeService: "Social",
+        NickName: "ICharlieBrownJr",
         Visibility: "Hidden"
     }
 ]

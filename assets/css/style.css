@@ -152,7 +152,7 @@ main ul a div svg {
 footer {
     width: 100%;
     position: absolute;
-    padding: 25px 0 0 0;
+    padding: 20px 0 25px 0;
     text-align: center;
     border-top: 1px solid var(--grey);
     color: var(--primary-1-reverse);
