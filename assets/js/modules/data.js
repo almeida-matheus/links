@@ -64,6 +64,17 @@ const resources = [
         Visibility: "Visible"
     },
     {
+        ServiceName: "Udemy",
+        PersonalURL: "https://www.udemy.com/user/matheus-almeida-costa",
+        PrimaryColor: "#B42FE9",
+        // IconFontawesome: "fa-sharp fa-solid fa-caret-up",
+        // IconFontawesome: "fa-solid fa-u",
+        IconFontawesome: "fa-solid fa-angle-up",
+        TypeService: "Social",
+        Nickname: "matheus-almeida-costa",
+        Visibility: "Hidden"
+    },
+    {
         ServiceName: "Instagram",
         PersonalURL: "https://www.instagram.com/almeidamatheus.me/",
         PrimaryColor: "#E1306C",
@@ -106,16 +117,7 @@ const resources = [
         IconFontawesome: "fa-brands fa-reddit",
         TypeService: "Social",
         Nickname: "matheuscbjr",
-        Visibility: "Visible"
-    },
-    {
-        ServiceName: "Steam",
-        PersonalURL: "https://steamcommunity.com/id/shiryunk/",
-        PrimaryColor: "#171a21",
-        IconFontawesome: "fa-brands fa-steam",
-        TypeService: "Social",
-        Nickname: "shiryunk",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Pinterest",
@@ -142,6 +144,15 @@ const resources = [
         IconFontawesome: "fa-solid fa-envelope",
         TypeService: "Social",
         NickName: "almeidamatheus.m@gmail.com",
+        Visibility: "Visible"
+    },
+    {
+        ServiceName: "Steam",
+        PersonalURL: "https://steamcommunity.com/id/shiryunk/",
+        PrimaryColor: "#171a21",
+        IconFontawesome: "fa-brands fa-steam",
+        TypeService: "Social",
+        Nickname: "shiryunk",
         Visibility: "Visible"
     },
     {
