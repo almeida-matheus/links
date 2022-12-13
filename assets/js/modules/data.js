@@ -2,7 +2,7 @@ const user = {
     UserId: "bad79324-c345-11ec-9d64-0242ac120002",
     UserName: "Matheus Almeida",
     Description: "",
-    ImageProfile: "./assets/image/matheus-almeida.jpeg"
+    ImageProfile: "./assets/image/matheus-almeida-cartoon.png"
 }
 
 const resources = [

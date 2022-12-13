@@ -50,7 +50,7 @@ main {
 
     width: 90vw;
     margin: auto;
-    padding: 40px 0;
+    padding: 20px 0 40px 0;
     /* border: solid 1px #333; */
 }
 
@@ -64,8 +64,8 @@ main #list__header {
 main #list__header img {
     width: 125px;
     height: 125px;
-    border-radius: 50%;
-    transition: all 1.5s ease;
+    /* border-radius: 50%; */
+    transition: all 1.2s ease;
 }
 
 main #list__header img:hover {
@@ -73,7 +73,7 @@ main #list__header img:hover {
 }
 
 main #list__header h1 {
-    margin: 9px 0;
+    margin: 8px 0 20px 0;
     font-size: 2rem;
     color: var(--primary-1-reverse);
 
@@ -117,7 +117,7 @@ main ul a {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 
-    transition: all 0.5s linear;
+    transition: all 0.4s linear;
 }
 
 main ul a:hover {
@@ -152,7 +152,7 @@ main ul a div svg {
 footer {
     width: 100%;
     position: absolute;
-    padding: 20px 0 25px 0;
+    padding: 26px 0 26px 0;
     text-align: center;
     border-top: 1px solid var(--grey);
     color: var(--primary-1-reverse);
@@ -166,7 +166,7 @@ footer .footer__link {
 
 footer .footer__link:hover {
     text-decoration: none;
-    color: var(--secondary-2);
+    color: var(--grey);
 }
 
 /*desktop ultrawide*/
