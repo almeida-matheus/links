@@ -2,7 +2,7 @@ const user = {
     UserId: "bad79324-c345-11ec-9d64-0242ac120002",
     UserName: "Matheus Almeida",
     Description: "",
-    ImageProfile: "./assets/image/matheus-almeida-cartoon.png"
+    ImageProfile: "./assets/image/matheus-almeida-cartoon-compress.png"
 }
 
 const resources = [
@@ -93,13 +93,31 @@ const resources = [
         Visibility: "Visible"
     },
     {
+        ServiceName: "YT Music",
+        PersonalURL: "https://music.youtube.com/channel/UCGke88VCjj799vKSbBGW64g",
+        PrimaryColor: "#c4302b",
+        IconFontawesome: "fa-brands fa-youtube",
+        TypeService: "Social",
+        Nickname: "Matheus Almeida",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Steam",
+        PersonalURL: "https://steamcommunity.com/id/shiryunk/",
+        PrimaryColor: "#171a21",
+        IconFontawesome: "fa-brands fa-steam",
+        TypeService: "Social",
+        Nickname: "shiryunk",
+        Visibility: "Visible"
+    },
+    {
         ServiceName: "Twitter",
         PersonalURL: "https://twitter.com/almeidamatheusm",
         PrimaryColor: "#1DA1F2",
         IconFontawesome: "fa-brands fa-twitter",
         TypeService: "Social",
         Nickname: "almeidamatheusm",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Discord",
@@ -144,15 +162,6 @@ const resources = [
         IconFontawesome: "fa-solid fa-envelope",
         TypeService: "Social",
         NickName: "almeidamatheus.m@gmail.com",
-        Visibility: "Visible"
-    },
-    {
-        ServiceName: "Steam",
-        PersonalURL: "https://steamcommunity.com/id/shiryunk/",
-        PrimaryColor: "#171a21",
-        IconFontawesome: "fa-brands fa-steam",
-        TypeService: "Social",
-        Nickname: "shiryunk",
         Visibility: "Visible"
     },
     {
