@@ -8,8 +8,6 @@
 
 ## About
 
-A web app for listing service profile links
-
-Similar to tools like [linktr.ee](https://linktr.ee/) and [beacons.ai](https://beacons.ai/)
+A web app to list service profile links
 
 ![links](/assets/image/links.png)
