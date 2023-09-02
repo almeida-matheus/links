@@ -26,6 +26,24 @@ const resources = [
         Visibility: "Visible"
     },
     {
+        ServiceName: "GitHub",
+        PersonalURL: "https://github.com/almeida-matheus",
+        PrimaryColor: "#333333",
+        IconFontawesome: "fa-brands fa-github",
+        TypeService: "Social",
+        Nickname: "almeida-matheus",
+        Visibility: "Visible"
+    },
+    {
+        ServiceName: "Youtube",
+        PersonalURL: "https://www.youtube.com/c/matheusalmeidac",
+        PrimaryColor: "#c4302b",
+        IconFontawesome: "fa-brands fa-youtube",
+        TypeService: "Social",
+        Nickname: "Matheus Almeida",
+        Visibility: "Visible"
+    },
+    {
         ServiceName: "Blog",
         PersonalURL: "https://blog.almeidamatheus.me/",
         PrimaryColor: "#01633e",
@@ -46,33 +64,25 @@ const resources = [
         Visibility: "Visible"
     },
     {
-        ServiceName: "Youtube",
-        PersonalURL: "https://www.youtube.com/c/matheusalmeidac",
-        PrimaryColor: "#c4302b",
-        IconFontawesome: "fa-brands fa-youtube",
+        ServiceName: "Dev.to",
+        PersonalURL: "https://dev.to/almeidamatheus/",
+        PrimaryColor: "#1E3050",
+        IconFontawesome: "fa-brands fa-dev",
         TypeService: "Social",
-        Nickname: "Matheus Almeida",
-        Visibility: "Visible"
-    },
-    {
-        ServiceName: "GitHub",
-        PersonalURL: "https://github.com/almeida-matheus",
-        PrimaryColor: "#333333",
-        IconFontawesome: "fa-brands fa-github",
-        TypeService: "Social",
-        Nickname: "almeida-matheus",
+        Nickname: "almeidamatheus",
         Visibility: "Visible"
     },
     {
         ServiceName: "Udemy",
-        PersonalURL: "https://www.udemy.com/user/matheus-almeida-costa",
+        PersonalURL: "https://www.udemy.com/user/matheus-almeida-costa/",
         PrimaryColor: "#B42FE9",
         // IconFontawesome: "fa-sharp fa-solid fa-caret-up",
         // IconFontawesome: "fa-solid fa-u",
         IconFontawesome: "fa-solid fa-angle-up",
+        IconCustomSvg: '<svg width="30px" height="30px" viewBox="0 0 412.77 799.91" xmlns="http://www.w3.org/2000/svg" width="1290" height="2500"><path d="M412.74 238.2l-206.4-119.1L0 238.2V119.1L206.37 0l206.4 119.1v119.1z" fill="#a435f0"/><path d="M0 338.22h108.11v262.54c0 67.83 50.67 100.9 98.26 100.9 48 0 98.3-33.95 98.3-101.81V338.22h108.1v268.8c0 62.48-19.65 110.7-58.96 143.76-39.33 33.04-88.45 49.13-148.35 49.13-59.84 0-108.99-16.06-147.38-49.13C19.65 717.75 0 671.32 0 609.69z"/></svg>',
         TypeService: "Social",
         Nickname: "matheus-almeida-costa",
-        Visibility: "Hidden"
+        Visibility: "Visible"
     },
     {
         ServiceName: "Instagram",

@@ -20,7 +20,10 @@ async function WriteTextContent(resources) {
         a.setAttribute('rel', 'noopener')
         a.innerHTML = service.ServiceName
         document.getElementById('list__body').append(a)
-        div.append(i)
+        if (service.IconCustomSvg)
+            div.innerHTML = service.IconCustomSvg
+        else
+            div.append(i)
         a.prepend(div)
     });
 
