@@ -61,7 +61,7 @@ const resources = [
         IconFontawesome: "fa-brands fa-medium-m",
         TypeService: "Social",
         Nickname: "almeida-matheus",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Dev.to",
@@ -74,12 +74,12 @@ const resources = [
     },
     {
         ServiceName: "Udemy",
-        PersonalURL: "https://www.udemy.com/user/matheus-almeida-costa/",
+        PersonalURL: "https://udemy.com/user/matheus-almeida-costa/",
         PrimaryColor: "#B42FE9",
         // IconFontawesome: "fa-sharp fa-solid fa-caret-up",
         // IconFontawesome: "fa-solid fa-u",
         IconFontawesome: "fa-solid fa-angle-up",
-        IconCustomSvg: '<svg width="30px" height="30px" viewBox="0 0 412.77 799.91" xmlns="http://www.w3.org/2000/svg" width="1290" height="2500"><path d="M412.74 238.2l-206.4-119.1L0 238.2V119.1L206.37 0l206.4 119.1v119.1z" fill="#a435f0"/><path d="M0 338.22h108.11v262.54c0 67.83 50.67 100.9 98.26 100.9 48 0 98.3-33.95 98.3-101.81V338.22h108.1v268.8c0 62.48-19.65 110.7-58.96 143.76-39.33 33.04-88.45 49.13-148.35 49.13-59.84 0-108.99-16.06-147.38-49.13C19.65 717.75 0 671.32 0 609.69z"/></svg>',
+        IconCustomSvg: '<svg width="26px" height="26px" viewBox="0 0 412.77 799.91" xmlns="http://www.w3.org/2000/svg" width="1290" height="2500"><path d="M412.74 238.2l-206.4-119.1L0 238.2V119.1L206.37 0l206.4 119.1v119.1z" fill="#a435f0"/><path d="M0 338.22h108.11v262.54c0 67.83 50.67 100.9 98.26 100.9 48 0 98.3-33.95 98.3-101.81V338.22h108.1v268.8c0 62.48-19.65 110.7-58.96 143.76-39.33 33.04-88.45 49.13-148.35 49.13-59.84 0-108.99-16.06-147.38-49.13C19.65 717.75 0 671.32 0 609.69z"/></svg>',
         TypeService: "Social",
         Nickname: "matheus-almeida-costa",
         Visibility: "Visible"
@@ -121,15 +121,6 @@ const resources = [
         Visibility: "Visible"
     },
     {
-        ServiceName: "Twitter",
-        PersonalURL: "https://twitter.com/almeidamatheusm",
-        PrimaryColor: "#1DA1F2",
-        IconFontawesome: "fa-brands fa-twitter",
-        TypeService: "Social",
-        Nickname: "almeidamatheusm",
-        Visibility: "Hidden"
-    },
-    {
         ServiceName: "Discord",
         PersonalURL: "https://discordapp.com/users/shiryu#2186",
         PrimaryColor: "#7289da",
@@ -137,24 +128,6 @@ const resources = [
         TypeService: "Social",
         Nickname: "shiryu#2186",
         Visibility: "Visible"
-    },
-    {
-        ServiceName: "Reddit",
-        PersonalURL: "https://www.reddit.com/user/matheuscbjr",
-        PrimaryColor: "#ff6314",
-        IconFontawesome: "fa-brands fa-reddit",
-        TypeService: "Social",
-        Nickname: "matheuscbjr",
-        Visibility: "Hidden"
-    },
-    {
-        ServiceName: "Pinterest",
-        PersonalURL: "https://br.pinterest.com/almeidamatheus_/",
-        PrimaryColor: "#E60023",
-        IconFontawesome: "fa-brands fa-pinterest",
-        TypeService: "Social",
-        NickName: "",
-        Visibility: "Hidden"
     },
     {
         ServiceName: "Telegram",
@@ -173,6 +146,33 @@ const resources = [
         TypeService: "Social",
         NickName: "almeidamatheus.m@gmail.com",
         Visibility: "Visible"
+    },
+    {
+        ServiceName: "Twitter",
+        PersonalURL: "https://twitter.com/almeidamatheusm",
+        PrimaryColor: "#1DA1F2",
+        IconFontawesome: "fa-brands fa-twitter",
+        TypeService: "Social",
+        Nickname: "almeidamatheusm",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Reddit",
+        PersonalURL: "https://www.reddit.com/user/matheuscbjr",
+        PrimaryColor: "#ff6314",
+        IconFontawesome: "fa-brands fa-reddit",
+        TypeService: "Social",
+        Nickname: "matheuscbjr",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Pinterest",
+        PersonalURL: "https://br.pinterest.com/almeidamatheus_/",
+        PrimaryColor: "#E60023",
+        IconFontawesome: "fa-brands fa-pinterest",
+        TypeService: "Social",
+        NickName: "",
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Ubi Connect/Uplay",
@@ -235,6 +235,15 @@ const resources = [
         IconFontawesome: "fa-solid fa-gamepad",
         TypeService: "Social",
         NickName: "ICharlieBrownJr",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Gitlab",
+        PersonalURL: "https://gitlab.com/almeidamatheus",
+        PrimaryColor: "#107C10",
+        IconFontawesome: "fa-solid fa-gitlab",
+        TypeService: "Social",
+        NickName: "almeidamatheus",
         Visibility: "Hidden"
     }
 ]

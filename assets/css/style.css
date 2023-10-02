@@ -58,12 +58,7 @@ main #list__header {
 main #list__header img {
     width: 125px;
     height: 125px;
-    transition: all 1.2s ease;
     /* border-radius: 50%; */
-}
-
-main #list__header img:hover {
-    transform: scale(1.2);
 }
 
 main #list__header h1 {
