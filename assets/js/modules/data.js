@@ -204,7 +204,7 @@ const resources = [
     },
     {
         ServiceName: "Epic Games",
-        PersonalURL: "",
+        PersonalURL: "https://store.epicgames.com/pt-BR/u/8429accacaa24c7f9cfb30042d7ad2c0",
         PrimaryColor: "#323232",
         IconFontawesome: "fa-solid fa-gamepad",
         TypeService: "Social",
