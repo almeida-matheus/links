@@ -55,10 +55,22 @@ main #list__header {
     /* overflow: hidden; */
 }
 
+main #list__header #header__circle {
+    position: relative;
+    width: 260px;
+    height: 260px;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
 main #list__header img {
-    width: 125px;
-    height: 125px;
-    /* border-radius: 50%; */
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
 }
 
 main #list__header h1 {

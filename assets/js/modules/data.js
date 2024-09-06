@@ -2,7 +2,7 @@ const user = {
     UserId: "bad79324-c345-11ec-9d64-0242ac120002",
     UserName: "Matheus Almeida",
     Description: "",
-    ImageProfile: "./assets/image/matheus-almeida-cartoon-compress.png"
+    ImageProfile: "./assets/image/matheus-almeida-costa-cartoon.jpg"
 }
 
 const resources = [
@@ -117,6 +117,17 @@ const resources = [
         PersonalURL: "https://music.youtube.com/channel/UCGke88VCjj799vKSbBGW64g",
         PrimaryColor: "#c4302b",
         IconFontawesome: "fa-brands fa-youtube",
+        TypeService: "Social",
+        Nickname: "Matheus Almeida",
+        Visibility: "Hidden"
+    },
+    {
+        ServiceName: "Maps",
+        PersonalURL: "https://www.google.com/maps/contrib/107070103045043710523",
+        PrimaryColor: "#de4d3e",
+        // IconFontawesome: "fa-brands fa-google",
+        // IconFontawesome: "fa-solid fa-map-location-dot",
+        IconFontawesome: "fa-solid fa-location-dot",
         TypeService: "Social",
         Nickname: "Matheus Almeida",
         Visibility: "Hidden"
