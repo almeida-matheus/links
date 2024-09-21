@@ -7,7 +7,7 @@ const user = {
 
 const resources = [
     {
-        ServiceName: "Portfólio",
+        ServiceName: "Portfolio",
         PersonalURL: "https://almeidamatheus.me/",
         PrimaryColor: "#323232",
         IconFontawesome: "fa-solid fa-user",
@@ -35,12 +35,12 @@ const resources = [
         Visibility: "Visible"
     },
     {
-        ServiceName: "Youtube",
-        PersonalURL: "https://www.youtube.com/c/matheusalmeidac",
-        PrimaryColor: "#c4302b",
-        IconFontawesome: "fa-brands fa-youtube",
+        ServiceName: "Dev.to",
+        PersonalURL: "https://dev.to/almeidamatheus/",
+        PrimaryColor: "#1E3050",
+        IconFontawesome: "fa-brands fa-dev",
         TypeService: "Social",
-        Nickname: "Matheus Almeida",
+        Nickname: "almeidamatheus",
         Visibility: "Visible"
     },
     {
@@ -64,12 +64,12 @@ const resources = [
         Visibility: "Hidden"
     },
     {
-        ServiceName: "Dev.to",
-        PersonalURL: "https://dev.to/almeidamatheus/",
-        PrimaryColor: "#1E3050",
-        IconFontawesome: "fa-brands fa-dev",
+        ServiceName: "Youtube",
+        PersonalURL: "https://www.youtube.com/c/matheusalmeidac",
+        PrimaryColor: "#c4302b",
+        IconFontawesome: "fa-brands fa-youtube",
         TypeService: "Social",
-        Nickname: "almeidamatheus",
+        Nickname: "Matheus Almeida",
         Visibility: "Visible"
     },
     {
@@ -148,7 +148,7 @@ const resources = [
         IconFontawesome: "fa-brands fa-discord",
         TypeService: "Social",
         Nickname: "shiryu#2186",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "Telegram",
@@ -157,7 +157,7 @@ const resources = [
         IconFontawesome: "fa-brands fa-telegram-plane",
         TypeService: "Social",
         Nickname: "almeidamatheus",
-        Visibility: "Visible"
+        Visibility: "Hidden"
     },
     {
         ServiceName: "E-mail",
@@ -175,15 +175,6 @@ const resources = [
         IconFontawesome: "fa-brands fa-twitter",
         TypeService: "Social",
         Nickname: "almeidamatheusm",
-        Visibility: "Hidden"
-    },
-    {
-        ServiceName: "Reddit",
-        PersonalURL: "https://www.reddit.com/user/matheuscbjr",
-        PrimaryColor: "#ff6314",
-        IconFontawesome: "fa-brands fa-reddit",
-        TypeService: "Social",
-        Nickname: "matheuscbjr",
         Visibility: "Hidden"
     },
     {
