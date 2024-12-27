@@ -69,7 +69,7 @@ const resources = [
         PrimaryColor: "#c4302b",
         IconFontawesome: "fa-brands fa-youtube",
         TypeService: "Social",
-        Nickname: "Matheus Almeida",
+        Nickname: "matheusalmeidac",
         Visibility: "Visible"
     },
     {
